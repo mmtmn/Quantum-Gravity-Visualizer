@@ -22,3 +22,13 @@ Realism and Novelty: The physics seems classical (gravity, collisions), but the 
 
 
 This code is more a creative exploration than a physically accurate simulation. It combines elements of quantum and classical physics in an innovative way, which is interesting for educational or artistic purposes. For rigorous physical simulation or novel physics discoveries, the model would need to adhere closely to established physical laws and principles.
+
+# Controls
+
+'a' and 'z' keys zoom in and zoom out
+
+arrow keys allows you to rotate
+
+# interesting facts
+
+When you zoom out enough it starts to zoom into something into a new way to look at it all.
