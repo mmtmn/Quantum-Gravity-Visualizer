@@ -3,19 +3,19 @@
 This Python script is using Pygame and NumPy to visualize a 3D wave function. It simulates particles influenced by gravity and visualizes them in 2D. Here's a brief review:
 
 
-Wave Function: Defines a 3D Gaussian wave function. It's complex-valued, representing quantum mechanical wave functions.
+1. Wave Function: Defines a 3D Gaussian wave function. It's complex-valued, representing quantum mechanical wave functions.
 
 
-Probability Density: Calculates the probability density from the wave function, important in quantum mechanics for finding the likelihood of particle positions.
+2. Probability Density: Calculates the probability density from the wave function, important in quantum mechanics for finding the likelihood of particle positions.
 
 
-Gravity and Collision: Simulates a basic physics environment with gravity and floor collision.
+3. Gravity and Collision: Simulates a basic physics environment with gravity and floor collision.
 
 
-3D to 2D Projection: Converts 3D coordinates to 2D for visualization, including camera controls for rotation and zoom.
+4. 3D to 2D Projection: Converts 3D coordinates to 2D for visualization, including camera controls for rotation and zoom.
 
 
-Particle Visualization: Displays particles based on their probability density and position.
+5. Particle Visualization: Displays particles based on their probability density and position.
 
 
 Realism and Novelty: The physics seems classical (gravity, collisions), but the visualization of a quantum wave function in this context is unique. The treatment of the wave function as a collection of particles influenced by gravity is not physically accurate for quantum systems, but it's a novel way to visualize these concepts.
